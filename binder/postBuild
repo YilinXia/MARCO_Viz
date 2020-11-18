@@ -1,0 +1,5 @@
+#!/bin/bash
+git clone https://github.com/liffiton/MARCO.git
+cd MARCO
+cd pyminisolvers
+make

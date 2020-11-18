@@ -1,0 +1,7 @@
+git+https://github.com/pysathq/pysat
+more_itertools
+numpy
+graphviz
+networkx
+matplotlib
+voila
