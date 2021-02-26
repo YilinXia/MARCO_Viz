@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YilinXia/MARCO_Viz/master?urlpath=voila%2Frender%2FMARCO_Viz_Dashboard.ipynb)
 
-You can access the dashboard online or locally. For online use, just click the `launch binder` button above. To run it locally, please follow the instructions below
+This dashboard is build upon [MARCO](https://sun.iwu.edu/~mliffito/marco/) project lead by Mark Liffiton.You can access the dashboard online or locally. For online use, just click the `launch binder` button above. To run it locally, please follow the instructions below
 
 Prerequisites
 * repo2docker [Installation Tutorial](https://repo2docker.readthedocs.io/en/latest/install.html)
